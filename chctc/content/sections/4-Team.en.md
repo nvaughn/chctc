@@ -5,7 +5,7 @@ subheader: "Lorem ipsum dolor sit amet consectetur."
 content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 teamMember: [
   {
-    imageFileName: "team/tawana.jpeg",
+    imageFileName: "team/tawana.jpeg  ",
     header: "Tawana Flatt",
     subheader: "Managing Director",
     social: {
@@ -15,9 +15,9 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/2.jpg",
+    imageFileName: "team/linda.jpg",
     header: "Larry Parker",
-    subheader: "Lead Marketer",
+    subheader: "Board President",
     social: {
       twitter: "#",
       facebook: "#",
@@ -25,9 +25,9 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    imageFileName: "team/chris.jpg",
+    header: "Chris Gregory",
+    subheader: "Chief Photographer",
     social: {
       twitter: "#",
       facebook: "#",
