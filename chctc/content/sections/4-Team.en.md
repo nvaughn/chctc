@@ -16,7 +16,7 @@ teamMember: [
   },
   {
     imageFileName: "team/linda.jpg",
-    header: "Larry Parker",
+    header: "Linda Spears",
     subheader: "Board President",
     social: {
       twitter: "#",
