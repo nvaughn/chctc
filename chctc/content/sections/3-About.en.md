@@ -28,7 +28,7 @@ thru donations to provide these services. "
   },
   {
     imageFileName: "about/newstore.png",
-    header: "July 2014",
+    header: "July 2019",
     subheader: "Phase Two Expansion",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
